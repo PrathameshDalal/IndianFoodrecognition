@@ -1,0 +1,5 @@
+path: C:\Users\prath\Downloads\IFR-2.v1i.yolov8
+train: train\images
+val: valid\images
+nc: 6
+names: ['biryani', 'chapati', 'dal_tadka', 'gulab_jamun', 'jalebi', 'paneer_butter_masala']

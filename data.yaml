@@ -1,0 +1,13 @@
+train: ../train/images
+val: ../valid/images
+test: ../test/images
+
+nc: 6
+names: ['biryani', 'chapati', 'dal_tadka', 'gulab_jamun', 'jalebi', 'paneer_butter_masala']
+
+roboflow:
+  workspace: envisionai
+  project: ifr-2
+  version: 1
+  license: MIT
+  url: https://universe.roboflow.com/envisionai/ifr-2/dataset/1
