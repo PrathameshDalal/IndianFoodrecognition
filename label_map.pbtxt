@@ -1,0 +1,30 @@
+item {
+    name: "biryani",
+    id: 1,
+    display_name: "biryani"
+}
+item {
+    name: "chapati",
+    id: 2,
+    display_name: "chapati"
+}
+item {
+    name: "dal_tadka",
+    id: 3,
+    display_name: "dal_tadka"
+}
+item {
+    name: "gulab_jamun",
+    id: 4,
+    display_name: "gulab_jamun"
+}
+item {
+    name: "jalebi",
+    id: 5,
+    display_name: "jalebi"
+}
+item {
+    name: "paneer_butter_masala",
+    id: 6,
+    display_name: "paneer_butter_masala"
+}
